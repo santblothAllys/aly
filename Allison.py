@@ -66,5 +66,5 @@ try:
                             break
 except ValueError:
     print('Ha ocurrido un error de tipo de dato, se cerrará el programa.')
-except:
-    print('Ha ocurrido un error, se cerrará el programa.')
+
+                        
